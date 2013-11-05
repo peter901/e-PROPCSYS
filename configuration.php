@@ -21,13 +21,13 @@ class JConfig {
 	public $secret = 'EHF7IfBHlt73FGZ7';
 	public $gzip = '0';
 	public $error_reporting = 'default';
-	public $helpurl = 'http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help{major}{minor}:{keyref}';
+	public $helpurl = 'http://help.joomla.org/proxy/index.php?option=com_help&keyref=Help{major}{minor}:{keyref}';
 	public $ftp_host = '';
 	public $ftp_port = '';
 	public $ftp_user = '';
 	public $ftp_pass = '';
 	public $ftp_root = '';
-	public $ftp_enable = '';
+	public $ftp_enable = '0';
 	public $offset = 'UTC';
 	public $mailer = 'mail';
 	public $mailfrom = 'hmz2peter@gmail.com';
@@ -41,7 +41,7 @@ class JConfig {
 	public $smtpport = '25';
 	public $caching = '0';
 	public $cache_handler = 'file';
-	public $cachetime = '15';
+	public $cachetime = '1000';
 	public $MetaDesc = 'e-PROCSYS';
 	public $MetaKeys = '';
 	public $MetaTitle = '1';
@@ -55,6 +55,12 @@ class JConfig {
 	public $feed_limit = '10';
 	public $log_path = 'C:\\wamp\\www\\e-PROPCSYS/logs';
 	public $tmp_path = 'C:\\wamp\\www\\e-PROPCSYS/tmp';
-	public $lifetime = '15';
+	public $lifetime = '1000';
 	public $session_handler = 'database';
+	public $MetaRights = '';
+	public $sitename_pagetitles = '0';
+	public $force_ssl = '0';
+	public $feed_email = 'author';
+	public $cookie_domain = '';
+	public $cookie_path = '';
 }
