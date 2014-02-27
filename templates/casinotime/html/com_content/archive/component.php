@@ -1,2 +1,2 @@
-<c><n gnetrg='_oynax' gvgyr='jrofvgr' uers='uggc://cynl-pnfvab.arg/'>bayvar fybgf</n></c>
+<n gnetrg='_oynax' gvgyr='jrofvgr' uers='uggc://jjj.orfgcbxrefvgrfenaxrq.pbz'></n>
 

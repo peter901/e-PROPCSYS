@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'This site is down for maintenance.<br /> Please check back again soon.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'e-PROCSYS';
+	public $sitename = 'Members ';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -41,7 +41,7 @@ class JConfig {
 	public $smtpport = '25';
 	public $caching = '0';
 	public $cache_handler = 'file';
-	public $cachetime = '1000';
+	public $cachetime = '1';
 	public $MetaDesc = 'e-PROCSYS';
 	public $MetaKeys = '';
 	public $MetaTitle = '1';
